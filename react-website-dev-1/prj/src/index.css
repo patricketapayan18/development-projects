@@ -11,5 +11,4 @@ body,
     height: 100%;
     width: 100%;
     font-family: "Bebas Neue", sans-serif;
-    @apply text-grey-100 /* gets all text - and applyes gray-500 */
 }
